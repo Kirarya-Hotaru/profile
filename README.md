@@ -6,7 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kirarya-hotaru&theme=dracula&column=-1)](https://github.com/Kirarya-Hotaru)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirarya-hotaru)](https://github.com/Kirarya-Hotaru)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirarya-hotaru&dracula&show_icons=true)](https://github.com/Kirarya-Hotaru)
+
 
 <!---
 Kirarya-Hotaru/Kirarya-Hotaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
