@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and android develoment 
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rivandoalrasyid060@gmail.com&column=-1
+- 📫 How to reach me rivandoalrasyid060@gmail.com
 [![trophy](https://github-profile-trophy.vercel.app/?username=kirarya-hotaru&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
