@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rivandoalrasyid060@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kirarya-hotaru&theme=dracula&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kirarya-hotaru&theme=dracula&column=-1)](https://github.com/Kirarya-Hotaru)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirarya-hotaru)](https://github.com/Kirarya-Hotaru)
 
 <!---
 Kirarya-Hotaru/Kirarya-Hotaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
